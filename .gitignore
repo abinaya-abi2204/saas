@@ -1,0 +1,48 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.vs/
+
+# Build results
+dist/
+build/
+out/
+
+# Node / Angular
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment files
+.env
+.env.local
+
+# SQLite database
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Angular cache
+.angular/
