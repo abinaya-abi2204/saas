@@ -1,4 +1,4 @@
-# 🚀 SaaS Customer Support Analytics Dashboard (2026)
+# 🚀 SaaS Customer Support Analytics Dashboard.
 
 ## 📌 Project Overview  
 The **SaaS Customer Support Analytics Dashboard** is a full-stack web application currently under development, aimed at improving how organizations handle and analyze customer support operations. The system provides a centralized platform to create, manage, and track support tickets while offering real-time insights through an interactive dashboard.
