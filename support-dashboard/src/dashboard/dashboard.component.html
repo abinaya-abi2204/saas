@@ -1,0 +1,25 @@
+<div class="container">
+
+<h2>Customer Support Dashboard</h2>
+
+<table class="table table-bordered">
+
+<tr>
+<th>ID</th>
+<th>Customer</th>
+<th>Issue</th>
+<th>Status</th>
+</tr>
+
+<tr *ngFor="let t of tickets">
+
+<td>{{t.id}}</td>
+<td>{{t.customerName}}</td>
+<td>{{t.issue}}</td>
+<td>{{t.status}}</td>
+
+</tr>
+
+</table>
+
+</div>
